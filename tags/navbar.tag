@@ -21,7 +21,7 @@
 			<li><a href="#contact">
 				<navbar-element content={['Contacto', 'Contact']} spanish={parent.spanish}></navbar-element>
 			</a></li>
-			<li><a href="#Acerca de">
+			<li><a href="#about">
 				<navbar-element content={['Acerca de', 'About']} spanish={parent.spanish}></navbar-element>
 			</a></li>
 			<li>

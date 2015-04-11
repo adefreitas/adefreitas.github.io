@@ -12,9 +12,6 @@
 			<li><a href="#jobxp">
 				<navbar-element content={['Experiencia', 'Experience']} spanish={parent.spanish}></navbar-element>
 			</a></li>
-			<li><a href="#education">
-				<navbar-element content={['Educacion', 'Education']} spanish={parent.spanish}></navbar-element>
-			</a></li>
 			<li><a href="#skills">
 				<navbar-element content={['Destrezas', 'Skills']} spanish={parent.spanish}></navbar-element>
 			</a></li>
